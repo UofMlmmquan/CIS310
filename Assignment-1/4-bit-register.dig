@@ -104,10 +104,6 @@
           <string>Label</string>
           <string>clk</string>
         </entry>
-        <entry>
-          <string>Frequency</string>
-          <int>100</int>
-        </entry>
       </elementAttributes>
       <pos x="560" y="720"/>
     </visualElement>
