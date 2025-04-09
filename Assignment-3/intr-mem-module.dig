@@ -251,6 +251,16 @@
       </elementAttributes>
       <pos x="1440" y="380"/>
     </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>ALU_enable</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1840" y="740"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -384,6 +394,10 @@
     <wire>
       <p1 x="1340" y="740"/>
       <p2 x="1720" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="1720" y="740"/>
+      <p2 x="1840" y="740"/>
     </wire>
     <wire>
       <p1 x="20" y="420"/>
